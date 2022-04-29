@@ -18,6 +18,10 @@ export default {
             locale: "fr",
             name: "French"
         },
+	{
+	    locale: "hi",
+	    name: "हिन्दी"
+	},
         {
             locale: "it",
             name: "Italiano"
@@ -57,6 +61,10 @@ export default {
 	{
             locale: "sv",
             name: "Svenska"
+        },
+	{
+            locale: "ua",
+            name: "Українська"
         },
         {
             locale: "ja",
